@@ -1,0 +1,17 @@
+{
+  "name": "dango-data/constants",
+  "description": "Commonly used constants for PHP",
+  "keywords": ["constants", "database", "field size"],
+  "homepage": "https://github.com/dango-data/constants",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fafabian"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DangoData\\Constants\\": "src"
+    }
+  }
+}
